@@ -1,0 +1,3 @@
+Resposta
+
+Ao alterar o atributo “nome” para private, a classe App deixa de acessá-lo. Ademais, o atributo só poderá ser acessado diretamente dentro da própria classe. Isso significa que qualquer código em outras classes não conseguirá ler ou modificar esse atributo diretamente, pois ele estará "oculto" (encapsulado).
